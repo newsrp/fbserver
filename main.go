@@ -4,7 +4,7 @@ import (
 	"github.com/gorilla/websocket"
 	//"github.com/ficbook/ficbook_server/newserver/chat"
 	//"./server"
-	"github.com/newsrp/server/server"
+	"github.com/newsrp/fbserver/server"
 	"net/http"
 	"log"
 	"github.com/jinzhu/gorm"
